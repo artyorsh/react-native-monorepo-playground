@@ -1,0 +1,6 @@
+{
+  "path": "../react-native-ui-kitten",
+  "modules": [
+    "src/framework"
+  ]
+}
